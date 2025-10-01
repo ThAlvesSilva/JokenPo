@@ -12,12 +12,15 @@ Projeto simples desenvolvido em **HTML, CSS e JavaScript**.
 
 ## 🎮 Demonstração  
 
-👉 ![Demonstração do jogo]
+
 
 [jokenpo5.webm](https://github.com/user-attachments/assets/6df9fa02-f194-4315-92d4-252482059dbf)
 
-<img width="771" height="505" alt="jokenpo1" src="https://github.com/user-attachments/assets/d2733e73-baa2-462d-9101-0a259ac9ad93" />
+<img width="771" height="505" alt="jokenpo1" src="./assets/jokenpo1.png" />
 
+👉 ![Demonstração do jogo]
+
+(./assets/jokenpo2.png)
 ---
 
 ## 🚀 Funcionalidades  
