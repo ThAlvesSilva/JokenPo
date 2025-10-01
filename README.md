@@ -10,12 +10,14 @@ Projeto simples desenvolvido em **HTML, CSS e JavaScript**.
 
 ---
 
+## 🎥 Demonstração
+
+▶️ [Clique aqui para assistir ao vídeo](./assets/jokenpo5.webm)
+
 ## 🎮 Demonstração  
 
+<img src="./assets/jokenpo1.png" width="771" height="505" alt="jokenpo1"/>
 
-
-
----
 
 ## 🚀 Funcionalidades  
 
