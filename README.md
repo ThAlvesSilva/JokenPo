@@ -1,9 +1,6 @@
 ```markdown
 # ✊✋✌️ Pedra, Papel e Tesoura  
 
-[![Status](https://img.shields.io/badge/status-completo-brightgreen)]()  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()  
-[![Made with JavaScript](https://img.shields.io/badge/made%20with-JavaScript-yellow)]()  
 
 Um jogo clássico de **Pedra, Papel e Tesoura**, onde você desafia a máquina em rodadas divertidas.  
 Projeto simples desenvolvido em **HTML, CSS e JavaScript**.  
@@ -16,7 +13,7 @@ Projeto simples desenvolvido em **HTML, CSS e JavaScript**.
 
 ## 🎮 Demonstração  
 
-<img src="./assets/jokenpo1.png" width="771" height="505" alt="jokenpo1"/>
+<img alt="jokenpo1" src="https://github.com/user-attachments/assets/ec1d79c6-0fbd-4466-82f9-aa5993070315" />
 
 
 ## 🚀 Funcionalidades  
