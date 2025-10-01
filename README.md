@@ -16,7 +16,7 @@ Projeto simples desenvolvido em **HTML, CSS e JavaScript**.
 
 [jokenpo5.webm](https://github.com/user-attachments/assets/6df9fa02-f194-4315-92d4-252482059dbf)
 
-<img width="771" height="505" alt="jokenpo1" src="./assets/jokenpo1.png" />
+<img src="./assets/jokenpo1.png" width="771" height="505" alt="jokenpo1.png" />
 
 👉 ![Demonstração do jogo]
 
